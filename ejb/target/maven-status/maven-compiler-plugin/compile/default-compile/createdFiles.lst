@@ -1,0 +1,5 @@
+group1\util\Resources.class
+group1\data\MemberRepository.class
+group1\model\Member.class
+group1\data\MemberListProducer.class
+group1\service\MemberRegistration.class
